@@ -1,0 +1,16 @@
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\01_console\bin\Debug\net5.0\01_console.exe
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\01_console\bin\Debug\net5.0\01_console.deps.json
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\01_console\bin\Debug\net5.0\01_console.runtimeconfig.json
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\01_console\bin\Debug\net5.0\01_console.runtimeconfig.dev.json
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\01_console\bin\Debug\net5.0\01_console.dll
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\01_console\bin\Debug\net5.0\ref\01_console.dll
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\01_console\bin\Debug\net5.0\01_console.pdb
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\01_console\obj\Debug\net5.0\01_console.csprojAssemblyReference.cache
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\01_console\obj\Debug\net5.0\01_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\01_console\obj\Debug\net5.0\01_console.AssemblyInfoInputs.cache
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\01_console\obj\Debug\net5.0\01_console.AssemblyInfo.cs
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\01_console\obj\Debug\net5.0\01_console.csproj.CoreCompileInputs.cache
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\01_console\obj\Debug\net5.0\01_console.dll
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\01_console\obj\Debug\net5.0\ref\01_console.dll
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\01_console\obj\Debug\net5.0\01_console.pdb
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\01_console\obj\Debug\net5.0\01_console.genruntimeconfig.cache
