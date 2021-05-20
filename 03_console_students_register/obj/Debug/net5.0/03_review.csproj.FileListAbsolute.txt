@@ -1,0 +1,16 @@
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\03_review\obj\Debug\net5.0\03_review.csprojAssemblyReference.cache
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\03_review\obj\Debug\net5.0\03_review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\03_review\obj\Debug\net5.0\03_review.AssemblyInfoInputs.cache
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\03_review\obj\Debug\net5.0\03_review.AssemblyInfo.cs
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\03_review\obj\Debug\net5.0\03_review.csproj.CoreCompileInputs.cache
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\03_review\bin\Debug\net5.0\03_review.exe
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\03_review\bin\Debug\net5.0\03_review.deps.json
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\03_review\bin\Debug\net5.0\03_review.runtimeconfig.json
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\03_review\bin\Debug\net5.0\03_review.runtimeconfig.dev.json
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\03_review\bin\Debug\net5.0\03_review.dll
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\03_review\bin\Debug\net5.0\ref\03_review.dll
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\03_review\bin\Debug\net5.0\03_review.pdb
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\03_review\obj\Debug\net5.0\03_review.dll
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\03_review\obj\Debug\net5.0\ref\03_review.dll
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\03_review\obj\Debug\net5.0\03_review.pdb
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\03_review\obj\Debug\net5.0\03_review.genruntimeconfig.cache
