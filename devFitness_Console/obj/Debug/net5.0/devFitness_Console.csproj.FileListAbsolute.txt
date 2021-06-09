@@ -1,0 +1,16 @@
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\devFitness_Console\bin\Debug\net5.0\devFitness_Console.exe
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\devFitness_Console\bin\Debug\net5.0\devFitness_Console.deps.json
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\devFitness_Console\bin\Debug\net5.0\devFitness_Console.runtimeconfig.json
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\devFitness_Console\bin\Debug\net5.0\devFitness_Console.runtimeconfig.dev.json
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\devFitness_Console\bin\Debug\net5.0\devFitness_Console.dll
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\devFitness_Console\bin\Debug\net5.0\ref\devFitness_Console.dll
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\devFitness_Console\bin\Debug\net5.0\devFitness_Console.pdb
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\devFitness_Console\obj\Debug\net5.0\devFitness_Console.csprojAssemblyReference.cache
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\devFitness_Console\obj\Debug\net5.0\devFitness_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\devFitness_Console\obj\Debug\net5.0\devFitness_Console.AssemblyInfoInputs.cache
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\devFitness_Console\obj\Debug\net5.0\devFitness_Console.AssemblyInfo.cs
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\devFitness_Console\obj\Debug\net5.0\devFitness_Console.csproj.CoreCompileInputs.cache
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\devFitness_Console\obj\Debug\net5.0\devFitness_Console.dll
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\devFitness_Console\obj\Debug\net5.0\ref\devFitness_Console.dll
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\devFitness_Console\obj\Debug\net5.0\devFitness_Console.pdb
+C:\Users\5369pc_lenon\Downloads\Aprendizado\DOTNET\devFitness_Console\obj\Debug\net5.0\devFitness_Console.genruntimeconfig.cache
